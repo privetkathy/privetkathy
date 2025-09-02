@@ -1,5 +1,5 @@
 # QA Engineer | Manual & Automation Testing | Java Learner | C++ | SQL
-Dedicated to ensuring software quality through both meticulous manual testing and the development of automated solutions. Currently upskilling in Java to build robust automation frameworks and contribute to development projects.
+I find and fix bugs. I use manual testing now and am learning Java to automate tests and help with development later on.
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
