@@ -1,6 +1,5 @@
 # QA Engineer | 1+ year | Web & UI Testing | Java Automation
-
-<br>httpskateriox@gmail.com  
+httpskateriox@gmail.com  
 [WhatsApp](https://wa.me/qr/O4MNMLDOOHWKA1)
 <br>[Telegram](https://t.me/kateriox)
 
